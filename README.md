@@ -42,12 +42,11 @@ This dataset contains transaction details from an online shopping platform inclu
 
 ---
 
-## 🧮 Key DAX Measures Used
-- Total Revenue  
-- Total Units Sold  
+## 🧮 Key DAX Measures Used  
+- Profit  
 - Average Selling Price  
-- Revenue Growth %  
-- Category-wise and Region-wise KPIs
+- Payment Method (Condition) 
+- Month (Condition)
 
 ---
 
