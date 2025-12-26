@@ -18,7 +18,6 @@ This project focuses on analyzing online store sales data to uncover insights re
 ## 📂 Dataset Details
 This dataset contains transaction details from an online shopping platform including product information, sales numbers, price, revenue, region, and payment method.
 
-*(Column descriptions are intentionally not included as per project requirement)*
 
 ---
 
