@@ -1,83 +1,70 @@
-🛍️ Online Sales Shop – Sales Analytics Dashboard
-📌 Power BI | Business Intelligence | DAX | Data Visualization
-📖 Overview
+# 🛍️ Online Sales Shop – Sales Analytics Dashboard
 
-This project analyzes online sales data to uncover insights related to product demand, revenue performance, and customer purchasing behavior. By leveraging Power BI visual analytics and DAX measures, it transforms raw sales data into actionable business intelligence.
+### 📌 Power BI | Business Intelligence | DAX | Data Visualization
 
-🎯 Project Goals
+This project focuses on analyzing online store sales data to uncover insights related to product demand, revenue performance, and customer purchasing behavior. The dashboard uses DAX-powered KPIs and interactive visuals to support strategic business decision-making.
 
-Evaluate overall sales and revenue performance
+---
 
-Identify best-selling products & categories
+## 🚀 Project Objectives
+- Analyze product category performance and best-selling items
+- Track revenue trends and key sales indicators over time
+- Compare region-wise performance and customer reach
+- Understand payment behaviors and customer preferences
+- Provide insights to improve marketing and sales strategy
 
-Understand regional growth opportunities
+---
 
-Analyze pricing impact on revenue generation
+## 📂 Dataset Details
+This dataset contains transaction details from an online shopping platform including product information, sales numbers, price, revenue, region, and payment method.
 
-Track purchasing patterns using payment modes
+*(Column descriptions are intentionally not included as per project requirement)*
 
-🔧 Tools & Technologies Used
-Tool	Purpose
-Power BI	Data Visualization & Dashboard
-Power Query	Data Cleaning & Transformation
-DAX (Data Analysis Expressions)	Calculated fields & KPIs
-Excel/CSV	Source data
-📊 Dashboard Features
+---
 
-📅 Sales trends by month
+## 🔧 Tools & Technologies
+| Tool | Purpose |
+|------|---------|
+| Power BI | Data visualization & dashboard development |
+| Power Query | Data cleaning & transformation |
+| DAX | Custom calculations & KPIs |
+| Excel / CSV | Source data |
 
-🏆 Top products & categories
+---
 
-🌍 Region-wise performance
+## 📈 Dashboard Features
+- Monthly sales and revenue analysis
+- Top-selling products & categories
+- Region-wise sales comparison
+- Units sold & revenue distribution charts
+- Payment method usage insights
+- Dynamic slicers for interactive filtering
 
-💳 Payment method usage analytics
+---
 
-💰 Revenue KPIs with card visuals
+## 🧮 Key DAX Measures Used
+- Total Revenue  
+- Total Units Sold  
+- Average Selling Price  
+- Revenue Growth %  
+- Category-wise and Region-wise KPIs
 
-📦 Profitability indicators (if added)
+---
 
-🧮 DAX Measures Included
+## 🧱 Data Model
+- Star schema design with relationships optimized for reporting
+- Fact table linked to supporting dimension tables
 
-Some of the key DAX expressions used:
+## ▶ How to Use This Project
+-Download the .pbix file and dataset
+-Open the project in Power BI Desktop
+-Refresh data if required (in case file paths change)
+-Use interactive filters to explore insights
 
-Average Selling Price
+## 🎯 Business Value Delivered
 
-Top Category Performance
-
-Year-over-Year Comparison (if applicable)
-
-Custom KPIs are dynamically calculated using DAX for improved accuracy and visualization flexibility.
-
-📌 Data Modeling
-
-Star schema with a Fact table linked to Dimension tables
-
-Ensures optimal performance and clean visual relationships
-
-📷 Dashboard Screenshots
-
-(Add visuals here once dashboard screenshots are exported)
-
-🚀 How to Run the Project
-
-Download .pbix file and dataset
-
-Open in Power BI Desktop
-
-Refresh data if file path changes
-
-Explore the visual report using filters & slicers
-
-📈 Business Value
-
-This dashboard helps businesses:
-
-Improve marketing & sales strategies
-
-Optimize stock based on demand
-
-Track performance in different regions
-
-Understand customer purchase behavior
-
-Increase revenue through better decision-making
+-This dashboard enables:
+-Better forecasting and sales strategy
+-Improved inventory & category management
+-Performance tracking across regions
+-Insightful decision-making for business growth
