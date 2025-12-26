@@ -56,15 +56,18 @@ This dataset contains transaction details from an online shopping platform inclu
 - Fact table linked to supporting dimension tables
 
 ## ▶ How to Use This Project
--Download the .pbix file and dataset
--Open the project in Power BI Desktop
--Refresh data if required (in case file paths change)
--Use interactive filters to explore insights
+1. Download the `.pbix` file and dataset
+2. Open the project in **Power BI Desktop**
+3. Refresh the data source if required (in case file paths change)
+4. Explore the dashboard using the interactive filters & slicers
+
+---
 
 ## 🎯 Business Value Delivered
+This dashboard helps businesses to:
 
--This dashboard enables:
--Better forecasting and sales strategy
--Improved inventory & category management
--Performance tracking across regions
--Insightful decision-making for business growth
+- 📈 Improve forecasting and sales strategy
+- 📦 Optimize inventory & product category management
+- 🌍 Track performance across different regions
+- 💡 Make insight-driven and faster business decisions
+
